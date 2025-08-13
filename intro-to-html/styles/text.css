@@ -1,0 +1,128 @@
+p {
+    font-family: Roboto;
+    margin: 0 0;
+  }
+
+  .video-title {
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin: 5px 0;
+  }
+
+  .video-info {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin: 0 0 20px 0;
+  }
+
+  .video-creator {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+  }
+
+  .video-description {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    line-height: 22px;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  .apple-text {
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+
+  .shop-link:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .tahoma-text {
+    font-family: tahoma;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .anouncement-text {
+    width: 240px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .sale-date {
+    font-size: 16px;
+    font-weight: normal;
+    color: rgb(227, 65, 64);
+    font-style: italic;
+  }
+
+  .verdana-font {
+    margin: 20px 0;
+  }
+  
+  .course-name {
+    font-family: verdana;
+    font-size: 18px;
+    width: 200;
+    font-weight: bold;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+
+  .course-goal {
+    font-size: 14px;
+    font-weight: normal;
+    color: rgb(113, 113, 113);
+  }
+
+  .course-description {
+    font-size: 14px;
+    font-family: verdana;
+    width: 270px;
+    margin-bottom: 20px;
+  }
+
+  .start-button {
+    font-family: verdana;
+    font-size: 14px;
+    background-color: rgb(12, 130, 6);
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+  }
+
+  .ad-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    width: 350px;
+  }
+
+  .ad-details,
+  .ad-link {
+    font-size: 14px;
+    text-align: center;
+    font-weight: 300;
+    width: 350px;
+    margin: 15px 0;
+  }
+
+  .ad-link {
+    color: rgb(4, 59, 196);
+  }
+
+  .ad-link:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }

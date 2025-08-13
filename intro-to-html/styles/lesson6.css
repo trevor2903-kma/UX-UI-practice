@@ -1,0 +1,24 @@
+p {
+  font-family: montserrat;
+  margin: 0 0;
+}
+
+.ad-details {
+  width: 330px;
+}
+
+.model {
+  text-align: center;
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.details {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.delivery-option {
+  text-decoration: underline;
+}

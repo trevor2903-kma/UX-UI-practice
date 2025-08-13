@@ -1,0 +1,239 @@
+.subscribe-button {
+        background-color: rgb(204, 0, 0);
+        color: white;
+        border: none;
+        padding: 10px 16px;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 8px;
+        transition: opacity 0.15s;
+      }
+
+      .subscribe-button:hover {
+        opacity: 0.8;
+      }
+
+      .subscribe-button:active {
+        opacity: 0.5;
+      }
+
+      .join-button {
+        border-color: rgb(40, 40, 255);
+        border-width: 1px;
+        border-radius: 2px;
+        border-style: solid;
+        padding: 10px 15px;
+        color: rgb(40, 40, 255);
+        cursor: pointer;
+        margin-right: 8px;
+        transition: background-color 0.15s,
+        color 0.15s;
+      }
+
+      .join-button:hover {
+        background-color: rgb(40, 40, 255);
+        color: white;
+        border: none;
+      }
+
+      .join-button:active {
+        opacity: 0.7;
+      }
+
+      .tweet-button {
+        border: none;
+        border-radius: 18px;
+        font-weight: bold;
+        font-size: 14px;
+        background-color: rgb(0, 170, 255);
+        color: white;
+        height: 36px;
+        width: 68px;
+        cursor: pointer;
+        transition: box-shadow 0.2s;
+      }
+
+      .tweet-button:hover {
+        box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+      }
+
+      .tweet-button:active {
+        opacity: 0.7;
+      }
+
+      .request-button {
+        height: 40px;
+        width: 110px;
+        background-color: black;
+        color: white;
+        margin: 0 8px ;
+        border: none;
+        transition: opacity 0.15s;
+      }
+
+      .request-button:hover {
+        opacity: 0.7;
+      }
+
+      .add-to-cart-button {
+        background-color: rgb(255, 216, 20);
+        height: 36px;
+        width: 160px;
+        border: none;
+        border-radius: 18px;
+        font-weight: 500;
+      }
+
+      .add-to-cart-button:hover {
+        background-color: rgba(239, 186, 12, 0.888);
+      }
+
+      .sign-up-button {
+        background-color: rgb(46, 164, 79);
+        height: 36px;
+        width: 78px;
+        color: white;
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        margin: 0 8px ;
+        transition: box-shadow 0.15s;
+      }
+
+      .sign-up-button:hover {
+        box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.2);
+      }
+
+      .get-started-button {
+        background-color: rgb(121, 82, 179);
+        height: 36px;
+        width: 100px;
+        color: white;
+        font-weight: bold;
+        border: none;
+        border-radius: 3px;
+        transition: background-color 0.15s;
+      }
+
+      .get-started-button:hover {
+        background-color: rgba(104, 56, 176);
+      }
+
+      .download-button {
+        height: 36px;
+        width: 100px;
+        margin: 0 8px;
+        color: rgb(108, 117, 125);
+        border-color: rgb(108, 117, 125);
+        border-radius: 3px;
+        font-weight: bold;
+        border-width: 1px;
+        transition: color 0.15s,
+        background-color 0.15s;
+      }
+
+      .download-button:hover {
+        color: white;
+        background-color: rgb(108, 117, 125);
+      }
+
+      .apply-button {
+        background-color: rgb(10, 102, 194);
+        border: none;
+        height: 36px;
+        width: 210px;
+        color: white;
+        font-weight: bold;
+        border-radius: 18px;
+        margin: 0 8px;
+        transition: background-color 0.15s;
+      }
+
+      .apply-button:hover {
+        background-color: rgb(41, 10, 194);
+      }
+
+      .save-button {
+        height: 36px;
+        width: 75px;
+        background-color: #fff;
+        color: rgb(10, 102, 194);
+        border-color: rgb(10, 102, 194);
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 18px;
+        font-weight: bold;
+        transition: background-color 0.15s,
+        border-width 0.1s;
+      }
+
+      .save-button:hover {
+        border-width: 2px;
+        background-color: rgba(10, 102, 194, 0.2);
+      }
+
+      .pagination {
+        margin: 10px 0;
+      }
+
+      .back-button, 
+      .next-button {
+        padding: 8px 6px;
+        margin: 0 8px;
+        font-weight: bold;
+      }
+
+      a {
+        margin: 0 4px;
+      }
+
+      .stretch-button {
+        padding: 10px 20px;
+        background-color: green;
+        border: none;
+        color: white;
+        margin-right: 8px;
+        transition: padding 0.5s;
+      }
+
+      .stretch-button:hover {
+        padding: 20px 40px;
+      }
+
+      .shadow-button {
+        padding: 10px 20px;
+        background-color: green;
+        border: none;
+        color: white;
+        font-weight: bold;
+        transition: box-shadow 0.15s,
+        margin-top 0.15s;
+      }
+
+      .shadow-button:hover {
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+      }
+
+      .shadow-button:active {
+        margin-top: 3px;
+        margin-left: 3px;
+        box-shadow: 0 0 0 white;
+      }
+
+      
+      .number {
+        margin-top: 10px;
+      }
+
+      .number-button {
+        padding: 10px 20px;
+        background-color: green;
+        border: none;
+        color: white;
+        margin: 0 10px;
+        transition: padding 0.2s;
+      }
+
+      .number-button:hover {
+        padding: 10px 30px;
+      }

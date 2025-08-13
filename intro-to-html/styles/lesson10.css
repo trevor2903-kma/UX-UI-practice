@@ -1,0 +1,94 @@
+p {
+  font-family: arial;
+  margin: 0;
+  line-height: 22px;
+}
+
+.profile-container {
+  display: block;
+  width: 350px;
+  height: 70px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+.profile-picture {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.user-picture {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.profile-info {
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.user-name {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.user-info,
+.user-popularity {
+  color: gray;
+}
+
+.follow-user {
+  height: 100%;
+  display: inline-block;
+}
+
+.follow-button {
+  padding: 6px 10px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: rgb(0, 162, 255);
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+
+.video-container {
+  width: 600px;
+}
+
+.video-thumbnail {
+  display: inline-block;
+  width: 250px;
+  margin-right: 5px;
+}
+
+.video-img {
+  width: 250px;
+}
+
+.video-desc {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.video-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  line-height: 24px;
+}
+
+.video-author,
+.video-stats {
+  line-height: 24px;
+  font-size: 16px;
+  color: rgb(100, 99, 99);
+}
+
